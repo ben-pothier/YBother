@@ -1,0 +1,27 @@
+"a" = (/turf,/area)
+"b" = (/turf/sidewalk,/area)
+"c" = (/turf/pavement,/area)
+"d" = (/turf/brick,/area)
+
+(1,1,1) = {"
+aaaaaaaaaaabcccbaaaa
+aaaaaaaaaaabcccbaaaa
+aaaaaaaaaaabcccbaaaa
+bbbbbbbbbbbbcccbaaaa
+cccccccccccccccbaaaa
+cccccccccccccccbaaaa
+cccccccccccccccbaaaa
+bbbbbbbbbbbbcccbaaaa
+dddddbbbdddbcccbaaaa
+dbbbbbbbbbdbcccbaaaa
+dbbbbbbbbbdbcccbaaaa
+dbbbbbbbbbdbcccbaaaa
+dbbbbbbbbbdbcccbaaaa
+ddddbbdddddbcccbaaaa
+bbbbbbbbbbbbcccbbbbb
+bccccccccccccccccccc
+bccccccccccccccccccc
+bccccccccccccccccccc
+bcccbbbbbbbbbbbbbbbb
+bcccbaaaaaaaaaaaaaaa
+"}

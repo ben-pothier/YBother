@@ -1,0 +1,23 @@
+// BEGIN_INTERNALS
+/*
+MAP_ICON_TYPE: 0
+WINDOW: Libraries\forum_account\pixelmovement\_reference.dm;Libraries\forum_account\pixelmovement\_readme.dm
+PACKAGE_RSC_NAME: C:\Users\Ben\Dropbox\Game\Generic ARPG\Generic ARPG_rsc.zip
+LAST_COMPILE_VERSION: 499.1202
+PACKAGE_DME_DEMO: 
+PACKAGE_DME_CLEANCHECK: OFF
+PACKAGE_RSC_CLEANCHECK: OFF
+PACKAGE_DMB_HUB: 
+PACKAGE_TYPE: 0
+PACKAGE_DMB_CLEANCHECK: OFF
+PACKAGE_DME_START: 
+DIR: Libraries Libraries\forum_account Libraries\forum_account\autojoining\demo Libraries\forum_account\pixelmovement test\demo 
+PACKAGE_DME_NAME: C:\Users\Ben\Dropbox\Game\Generic ARPG\Generic ARPG_src.zip
+FILE: Libraries\forum_account\pixelmovement\_readme.dm
+PACKAGE_DME_INFO: 
+PACKAGE_DMB_NAME: C:\Users\Ben\Dropbox\Game\Generic ARPG\Generic ARPG.zip
+LAST_COMPILE_TIME: 1376539069
+PACKAGE_DMB_INFO: 
+AUTO_FILE_DIR: ON
+*/
+// END_INTERNALS

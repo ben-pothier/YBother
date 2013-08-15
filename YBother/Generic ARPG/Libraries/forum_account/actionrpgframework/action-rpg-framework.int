@@ -1,0 +1,11 @@
+// BEGIN_INTERNALS
+/*
+MAP_ICON_TYPE: 0
+WINDOW: items.dm;player-abilities.dm
+LAST_COMPILE_VERSION: 498.1163
+DIR: demo icon-generation Lib 
+FILE: player-abilities.dm
+LAST_COMPILE_TIME: 1359663777
+AUTO_FILE_DIR: ON
+*/
+// END_INTERNALS

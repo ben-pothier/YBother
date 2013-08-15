@@ -1,0 +1,25 @@
+// DM Environment file for icon-processor.dme.
+// All manual changes should be made outside the BEGIN_ and END_ blocks.
+// New source code should be placed in .dm files: choose File/New --> Code File.
+
+// BEGIN_INTERNALS
+// END_INTERNALS
+
+// BEGIN_FILE_DIR
+#define FILE_DIR .
+#define FILE_DIR "clouds-demo"
+#define FILE_DIR "fade-demo"
+// END_FILE_DIR
+
+// BEGIN_PREFERENCES
+// END_PREFERENCES
+
+// BEGIN_INCLUDE
+#include "_readme.dm"
+#include "color.dm"
+#include "icon-processor.dm"
+#include "noise.dm"
+#include "perlin-noise.dm"
+#include "template.dm"
+// END_INCLUDE
+
